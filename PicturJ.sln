@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicturJ", "PicturJ.csproj", "{0F6693E7-3E27-44F8-9167-E0FB391FBFBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F6693E7-3E27-44F8-9167-E0FB391FBFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6693E7-3E27-44F8-9167-E0FB391FBFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6693E7-3E27-44F8-9167-E0FB391FBFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F6693E7-3E27-44F8-9167-E0FB391FBFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
